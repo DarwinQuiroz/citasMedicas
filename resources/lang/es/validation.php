@@ -151,6 +151,7 @@ return [
         'password' => 'Contraseña',
         'cedula' => 'Cédula',
         'direccion' => 'Dirección',
+        'name' => 'Nombre',
     ],
 
 ];
